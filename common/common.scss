@@ -340,18 +340,16 @@ span.prefix-span {
   padding: 1rem;
 }
 
-.dse-footer-orgs {
-  margin: 1rem 0;
+.dse-footer-orgs,
+.dse-footer-links,
+.dse-footer-legal {
+  margin: 0.5rem 0;
   padding: 0.5rem;
 }
 
 .dse-footer-img {
   margin-bottom: 1.5rem;
   margin-right: 1.5rem;
-}
-
-.dse-footer-links {
-  padding: 0.5rem;
 }
 
 .dse-footer-links-list {
@@ -361,7 +359,8 @@ span.prefix-span {
   list-style: none;
 }
 
-.dse-footer-links-list a {
-  color: #333333;
+.dse-footer-links-list a,
+.dse-footer-legal a {
+  color: #666;
   text-decoration: none;
 }
