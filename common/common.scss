@@ -343,8 +343,12 @@ span.prefix-span {
 .dse-footer-orgs,
 .dse-footer-links,
 .dse-footer-legal {
-  margin: 0.5rem 0;
   padding: 0.5rem;
+}
+
+.dse-footer-links h4,
+.dse-footer-links h5 {
+  margin: 0;
 }
 
 .dse-footer-img {
