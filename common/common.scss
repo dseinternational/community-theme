@@ -348,8 +348,8 @@ span.prefix-span {
 }
 
 .dse-footer-img {
-  margin-bottom: 1.5rem;
-  margin-right: 1.5rem;
+  margin-bottom: 1rem;
+  margin-right: 2rem;
 }
 
 .dse-footer-links-list {
@@ -358,7 +358,9 @@ span.prefix-span {
   padding: 0;
   list-style: none;
 }
-
+.dse-footer-legal {
+  font-size: 0.75rem;
+}
 .dse-footer-links-list a,
 .dse-footer-legal a {
   color: #666;
