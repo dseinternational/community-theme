@@ -342,6 +342,7 @@ span.prefix-span {
 
 .dse-footer-orgs {
   margin: 1rem 0;
+  padding: 0.5rem;
 }
 
 .dse-footer-img {
@@ -349,8 +350,12 @@ span.prefix-span {
   margin-right: 1.5rem;
 }
 
+.dse-footer-links {
+  padding: 0.5rem;
+}
+
 .dse-footer-links-list {
-  font-size: var(--font-0);
+  font-size: 0.875rem;
   margin: 1rem 0;
   padding: 0;
   list-style: none;
