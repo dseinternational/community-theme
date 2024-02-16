@@ -329,6 +329,12 @@ span.prefix-span {
   font-size: var(--font-0);
 }
 
+.dse-container {
+  max-width: 1372px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .dse-footer {
   background-color: #f4f4f5;
   padding: 1rem;
@@ -339,5 +345,6 @@ span.prefix-span {
 }
 
 .dse-footer-img {
+  margin-bottom: 1.5rem;
   margin-right: 1.5rem;
 }
