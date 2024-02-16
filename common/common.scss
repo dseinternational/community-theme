@@ -335,3 +335,7 @@ h1, h2, h3, h4, h5, h6 {
 span.prefix-span {
   border-radius: 0.5rem;
 }
+
+.nav-pills>li>a, .nav-pills>li button {
+  font-size: var(--font-0);
+}
